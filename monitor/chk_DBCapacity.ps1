@@ -1,7 +1,9 @@
 ﻿# To check if any data file size is approaching 32 Gbytes limit.
 # To execute from OMS server.
 # Select-String -Path test_tnsping.log -Pattern "msec"
-
+# History
+# 2022-May-10 QS Initialized
+# 2022-Sep-27 QS test Github
 
 #$DBNAME="ACAD"
 $USERNAME="dbapadm"
