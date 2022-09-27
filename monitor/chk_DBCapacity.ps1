@@ -4,9 +4,12 @@
 # History
 # 2022-May-10 QS Initialized
 # 2022-Sep-27 QS test Github
+<<<<<<< HEAD
 # 2022-Sep-27 QS test checkpoint 1
 # 2022-Sep-27 QS test checkpoint 2
 # 2022-Sep-27 QS test checkpoint 3
+=======
+>>>>>>> parent of bbbf71b (Update chk_DBCapacity.ps1)
 
 #$DBNAME="ACAD"
 $USERNAME="dbapadm"
