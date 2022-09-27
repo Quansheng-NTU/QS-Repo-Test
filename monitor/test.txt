@@ -2,5 +2,9 @@ a
 b
 c
 d
+<<<<<<< HEAD
 e
 f
+=======
+
+>>>>>>> parent of ce61a73 (update e)
