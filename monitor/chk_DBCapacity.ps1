@@ -6,7 +6,7 @@
 # 2022-Sep-27 QS test Github
 # 2022-Sep-27 QS test checkpoint 1
 # 2022-Sep-27 QS test checkpoint 2
-
+# 2022-Sep-27 QS test checkpoint 3
 
 #$DBNAME="ACAD"
 $USERNAME="dbapadm"
